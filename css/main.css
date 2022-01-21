@@ -8,7 +8,7 @@ Table of contents
     02. Bottom Navbar
     03. Scrollbar
     04. Slider
-    05. flip text-image
+    05. flip text-image-IT Solutions
     06. abous us/team
     07. services
     09. Contact
@@ -69,7 +69,6 @@ Top navbar
     border: 1px solid #666666;
     padding: 5px 10px; 
     outline: none;
-    transition: all 0.5s linear;
   }
   
   .wrapper .top_nav .left .search_bar input[type="text"]:focus{
@@ -169,11 +168,13 @@ Top navbar
   font-weight: 800;
   color: white;
 }
-.slider p {
+.slider button {
   font-size: 30px;
   font-weight: 800;
   color: white;
+  border-color: #494949;
 }
+
 .slider .carousel-inner .carousel-item p {
   font-size: 15px;
   line-height: 26px;
